@@ -1,4 +1,4 @@
-// define a recipes object. 
+// define a recipes object.
 
 
 
@@ -12,4 +12,3 @@
 
 
 // destructivelyDeleteFromObjectByKey(object, key)
-
