@@ -1,5 +1,5 @@
 // define a recipes object.
-
+var recipes = {};
 
 
 // updateObjectWithKeyAndValue(object, key, value)
